@@ -1,3 +1,3 @@
 # USACO-solutions
 
-Java solutions from my USACO practice.
+My Java solutions for USACO.
