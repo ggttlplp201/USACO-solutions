@@ -1,4 +1,4 @@
-package USACO;
+package usaco.bronze;
 
 import java.util.*;
 
