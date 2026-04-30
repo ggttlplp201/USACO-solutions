@@ -1,6 +1,7 @@
 # USACO Solutions
 
 Java solutions to USACO contest problems, organized by division.
+AC on all 6 questions.
 
 ## Divisions
 
